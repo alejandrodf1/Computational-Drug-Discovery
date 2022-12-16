@@ -21,4 +21,10 @@ dependencies:
   - python=3.7
   - seaborn
   - chembl_webresource_client
+  - rdkit=2022.09.1=py37hd0946af_0
+ - pip:
+  - chembl-webresource-client==0.10.8
+
+
+
   
